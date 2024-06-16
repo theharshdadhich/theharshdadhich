@@ -1,7 +1,7 @@
 # Hi, I'm Harsh Dadhich! 👋
 
-Welcome to my GitHub profile! 🌟
-I'm corrently deep-diving Web-development. 
+Welcome to my GitHub profile! <br>
+🌟I'm corrently deep-diving Web-development.<br> 
 🔭 I’m currently working with Javascript, Next.JS and React.JS.<br>🌱 I’m contributing to Next and JavaScript/TypeScript based project.<br>✍️ Ocassionally I write on [X]((https://x.com/theharshdadhich)).<br>👯 I’m looking for full time opportunities as a Frontend/Fullstack Dev.<br>
 
 
