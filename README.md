@@ -65,3 +65,12 @@ NE
 
 ## GitHub Stats
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=theharshdadhich&show_icons=true&theme=cobalt)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=theharshdadhich&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+<br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![](https://visitcount.itsvg.in/api?id=theharshdadhich&icon=8&color=4)](https://visitcount.itsvg.in)
