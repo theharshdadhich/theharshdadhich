@@ -62,12 +62,6 @@ Welcome to my GitHub profile! <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-## GitHub Stats
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=theharshdadhich&show_icons=true&theme=cobalt)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=theharshdadhich&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
