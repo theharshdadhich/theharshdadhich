@@ -13,7 +13,7 @@ Welcome to my GitHub profile! <br>
 <a href="https://instagram.com/theharshdadhich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_tyagi.g" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harshdadhich11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tyagi07" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/HarshDadhich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="parthtyagi15" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harry_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tyagi-parth-15" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dadhich_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tyagi-parth-15" height="30" width="40" /></a>
 
 ## Skills
 <div align="left">
